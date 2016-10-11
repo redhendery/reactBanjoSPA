@@ -1,0 +1,25 @@
+{
+  "name": "banjo",
+  "version": "1.0.0",
+  "description": "Single Page App for Banjo, w/ Webpack &amp; Node",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redhendery/reactBanjoSPA.git"
+  },
+  "keywords": [
+    "banjo"
+  ],
+  "author": "redhendery",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/redhendery/reactBanjoSPA/issues"
+  },
+  "homepage": "https://github.com/redhendery/reactBanjoSPA#readme",
+  "devDependencies": {
+    "webpack": "^1.13.2"
+  }
+}
